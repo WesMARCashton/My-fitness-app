@@ -1,0 +1,7 @@
+{
+  "name": "Calorie Companion",
+  "description": "A personal weight loss and accountability app to track daily food intake, exercise, and weight. It uses AI to fetch nutritional data and provide motivation, helping you maintain a caloric deficit and achieve your goals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
